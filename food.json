@@ -1,198 +1,168 @@
 [
   {
     "food" : "Kuru Fasülye",
-    "calorie" : "94",
-    "gr" : "100"
+    "calorie" : "188",
+    "gr" : "200"
   },
   {
     "food" : "Havuçlu Bezelye",
-    "calorie" : "48",
-    "gr" : "100"
+    "calorie" : "96",
+    "gr" : "200"
   },
   {
     "food" : "Humus",
-    "calorie" : "177",
-    "gr" : "100"
+    "calorie" : "354",
+    "gr" : "200"
   },
   {
     "food" : "Pişmiş Enginar",
-    "calorie" : "53",
-    "gr" : "100"
+    "calorie" : "106",
+    "gr" : "200"
   },
   {
     "food" : "Hünkar Beğendi",
-    "calorie" : "174",
-    "gr" : "100"
+    "calorie" : "348",
+    "gr" : "200"
   },
   {
     "food" : "Kıymalı Pide",
-    "calorie" : "186",
-    "gr" : "100"
-  },
-  {
-    "food" : "Patates",
-    "calorie" : "83",
-    "gr" : "100"
+    "calorie" : "372",
+    "gr" : "200"
   },
   {
     "food" : "Pişmiş Kereviz",
-    "calorie" : "26",
-    "gr" : "100"
+    "calorie" : "52",
+    "gr" : "200"
   },
   {
     "food" : "Patates Salatası",
-    "calorie" : "143",
-    "gr" : "100"
+    "calorie" : "286",
+    "gr" : "200"
   },
   {
     "food" : "Bulgur Pilavı",
-    "calorie" : "215",
-    "gr" : "100"
+    "calorie" : "430",
+    "gr" : "200"
   },
   {
     "food" : "Tereyağlı Pirinç Pilavı",
-    "calorie" : "185",
-    "gr" : "100"
+    "calorie" : "370",
+    "gr" : "200"
   },
   {
     "food" : "Kıymalı Makarna",
-    "calorie" : "130",
-    "gr" : "100"
+    "calorie" : "260",
+    "gr" : "200"
   },
   {
     "food" : "Zeytinyağlı Yaprak Sarma",
-    "calorie" : "125",
-    "gr" : "100"
+    "calorie" : "250",
+    "gr" : "200"
   },
   {
     "food" : "Peynirli Makarna",
-    "calorie" : "140",
-    "gr" : "100"
+    "calorie" : "280",
+    "gr" : "200"
   },
   {
     "food" : "Tavuk Salata",
-    "calorie" : "48",
-    "gr" : "100"
+    "calorie" : "96",
+    "gr" : "200"
   },
   {
     "food" : "Zeytinyağlı Taze Fasulye",
-    "calorie" : "50",
-    "gr" : "100"
+    "calorie" : "100",
+    "gr" : "200"
   },
   {
     "food" : "Fırında Tavuk",
-    "calorie" : "138",
-    "gr" : "100"
+    "calorie" : "276",
+    "gr" : "200"
   },
   {
     "food" : "Karnıyarık",
-    "calorie" : "134",
-    "gr" : "100"
+    "calorie" : "268",
+    "gr" : "200"
   },
   {
     "food" : "Zeytinyağlı Dolma",
-    "calorie" : "175",
-    "gr" : "100"
+    "calorie" : "350",
+    "gr" : "200"
   },
   {
     "food" : "Hamsi Tava",
-    "calorie" : "150",
-    "gr" : "100"
+    "calorie" : "300",
+    "gr" : "3200"
   },
   {
     "food" : "Somon",
-    "calorie" : "180",
-    "gr" : "100"
+    "calorie" : "360",
+    "gr" : "200"
   },
   {
     "food" : "Palamut",
-    "calorie" : "135",
-    "gr" : "100"
+    "calorie" : "270",
+    "gr" : "200"
   },
   {
     "food" : "Levrek",
-    "calorie" : "95",
-    "gr" : "100"
+    "calorie" : "190",
+    "gr" : "200"
   },
   {
     "food" : "Çupra",
-    "calorie" : "110",
-    "gr" : "100"
+    "calorie" : "220",
+    "gr" : "200"
   },
   {
     "food" : "Taze Mısır",
-    "calorie" : "96",
-    "gr" : "100"
-  },
-  {
-    "food" : "Bezelye",
-    "calorie" : "84",
-    "gr" : "100"
+    "calorie" : "192",
+    "gr" : "200"
   },
   {
     "food" : "Haşlanmış Patates",
-    "calorie" : "76",
-    "gr" : "100"
+    "calorie" : "152",
+    "gr" : "200"
   },
   {
     "food" : "Pırasa",
-    "calorie" : "42",
-    "gr" : "100"
+    "calorie" : "84",
+    "gr" : "200"
   },
   {
-    "food" : "Pancar",
-    "calorie" : "43",
-    "gr" : "100"
-  },
-  {
-    "food" : "Matar",
-    "calorie" : "28",
-    "gr" : "100"
+    "food" : "Mantar",
+    "calorie" : "56",
+    "gr" : "200"
   },
   {
     "food" : "Karnabahar",
-    "calorie" : "27",
-    "gr" : "100"
+    "calorie" : "54",
+    "gr" : "200"
   },
   {
     "food" : "Muz",
-    "calorie" : "85",
-    "gr" : "100"
+    "calorie" : "170",
+    "gr" : "200"
   },
   {
     "food" : "İncir",
-    "calorie" : "80",
-    "gr" : "100"
-  },
-  {
-    "food" : "Erik",
-    "calorie" : "75",
-    "gr" : "100"
+    "calorie" : "160",
+    "gr" : "200"
   },
   {
     "food" : "Elma",
-    "calorie" : "58",
-    "gr" : "100"
-  },
-  {
-    "food" : "Portakal",
-    "calorie" : "49",
-    "gr" : "100"
+    "calorie" : "116",
+    "gr" : "200"
   },
   {
     "food" : "Biftek",
-    "calorie" : "156",
-    "gr" : "100"
+    "calorie" : "312",
+    "gr" : "200"
   },
   {
     "food" : "Yoğurt",
-    "calorie" : "62",
-    "gr" : "100"
-  },
-  {
-    "food" : "Ayran",
-    "calorie" : "38",
-    "gr" : "100"
+    "calorie" : "124",
+    "gr" : "200"
   },
   {
     "food" : "Ceviz",
@@ -236,98 +206,98 @@
   },
   {
     "food" : "Bezelye Çorbası",
-    "calorie" : "75",
-    "gr" : "100"
+    "calorie" : "150",
+    "gr" : "200"
   },
   {
     "food" : "Bulgur Pilavı",
-    "calorie" : "215",
-    "gr" : "100"
+    "calorie" : "430",
+    "gr" : "200"
   },
   {
     "food" : "İzmir Köfte",
-    "calorie" : "137",
-    "gr" : "100"
+    "calorie" : "274",
+    "gr" : "200"
   },
   {
     "food" : "Elma",
-    "calorie" : "58",
-    "gr" : "100"
+    "calorie" : "116",
+    "gr" : "200"
   },
   {
     "food" : "Kıymalı Biber Dolma",
-    "calorie" : "110",
-    "gr" : "100"
+    "calorie" : "220",
+    "gr" : "200"
   },
   {
     "food" : "Izgara Köfte",
-    "calorie" : "193",
-    "gr" : "100"
+    "calorie" : "386",
+    "gr" : "200"
   },
   {
     "food" : "Kış Türlüsü",
-    "calorie" : "95",
-    "gr" : "100"
+    "calorie" : "190",
+    "gr" : "200"
   },
   {
     "food" : "Rosta Et",
-    "calorie" : "217",
-    "gr" : "100"
+    "calorie" : "434",
+    "gr" : "200"
   },
   {
     "food" : "Yumurtalı Ispanak",
-    "calorie" : "114",
-    "gr" : "100"
+    "calorie" : "228",
+    "gr" : "200"
   },
   {
     "food" : "Patlican Musakka",
-    "calorie" : "80",
-    "gr" : "100"
+    "calorie" : "160",
+    "gr" : "200"
   },
   {
     "food" : "Şehriye Çorbası",
-    "calorie" : "56",
-    "gr" : "100"
+    "calorie" : "112",
+    "gr" : "200"
   },
   {
     "food" : "Domates Çorbası",
-    "calorie" : "80",
-    "gr" : "100"
+    "calorie" : "160",
+    "gr" : "200"
   },
   {
     "food" : "Mercimek Çorbası",
-    "calorie" : "90",
-    "gr" : "100"
+    "calorie" : "180",
+    "gr" : "200"
   },
   {
     "food" : "İmam Bayıldı",
-    "calorie" : "130",
-    "gr" : "100"
+    "calorie" : "260",
+    "gr" : "200"
   },
   {
     "food" : "Karışık Salata",
-    "calorie" : "82",
-    "gr" : "100"
+    "calorie" : "164",
+    "gr" : "200"
   },
   {
     "food" : "Cacık",
-    "calorie" : "58",
-    "gr" : "100"
+    "calorie" : "116",
+    "gr" : "200"
   },
   {
     "food" : "Yeşil Mercimek Yemeği",
-    "calorie" : "30",
-    "gr" : "100"
+    "calorie" : "60",
+    "gr" : "200"
   },
   {
     "food" : "Bezelye Yemeği",
-    "calorie" : "60",
-    "gr" : "100"
+    "calorie" : "120",
+    "gr" : "200"
   },
   {
     "food" : "İçli Köfte",
-    "calorie" : "330",
-    "gr" : "100"
+    "calorie" : "660",
+    "gr" : "200"
   }
 ]
 
